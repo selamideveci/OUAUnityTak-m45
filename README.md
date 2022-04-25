@@ -1,3 +1,3 @@
 # OUAUnityTak-m45
-Sezgi Sevilmiş\n
+Sezgi Sevilmiş
 Kaan Bedirhan Kahveci
