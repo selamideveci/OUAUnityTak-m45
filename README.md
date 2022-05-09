@@ -36,11 +36,18 @@ Oyuncu ikinci versiyonda dört yöne gidebilir, amaç yanmadan yeni haritaları 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/file/d/1RALBW0VaJiG5ctWVUIQ-G1Rb14jhN5UZ/view?usp=sharing)
 - **Sprint board update**: Sprint board screenshotları:
+![Board 1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/43bb6f8767ef40e3beefbee05f8f56d5.png)
+![Board 2](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/e72523dbbdac75c952ba3e9a67138482.png)
+- **Ürün Durumu:** Ekran görüntüleri:
+![ss1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Screenshots/05c20aa19545833f6814ef845ba3748d.png)
+![ss2](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Screenshots/5a24162619151bb9e28011b7542b9e7d.png)
 
 - **Sprint Review:** Alınan kararlar:Haftalık görev dağıtıldı ve birlikte çalışılacak zamanlar belirlendi. 
 
-- **Sprint Retrospective:** 
+- **Sprint Retrospective:**
+ - Tasarım konusunda iyileştirilme kararı alındı.
+ - Oyun içeriği hakkında yeni özellikler eklenilme kararı verildi.
 
 
