@@ -50,8 +50,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  - Tasarım konusunda iyileştirilme kararı alındı.
  - Oyun içeriği hakkında yeni özellikler eklenilme kararı verildi.
  <br/>
-  <br/>
+  
 # Sprint 2
+
 - **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
