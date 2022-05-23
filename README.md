@@ -49,5 +49,35 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Retrospective:**
  - Tasarım konusunda iyileştirilme kararı alındı.
  - Oyun içeriği hakkında yeni özellikler eklenilme kararı verildi.
+ <br/>
+  <br/>
+# Sprint 2
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://drive.google.com/file/d/1d-cQxWI25BiLHDYUv_thd45GkaP5ZOX0/view?usp=sharing)
+- **Sprint board update**: Sprint board screenshotları:
+![Board 1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/Sprint2%201.png)
+![Board 2](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/Sprint2.png)
+- **Ürün Durumu:** Ekran görüntüleri:
+![ss1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Screenshots/Sprint2)
+
+
+- **Sprint Review:** 
+ - Haftalık görev dağıtıldı.
+ - Proje hakkında 3. Sprint için yapılması gerekenler belirlendi.
+
+- **Sprint Retrospective:**
+  - Karakter çizimi hakkında iyileştirme kararı alındı.
+  - Bazı kodlama kısımlarının genişletilme kararı alındı.
+
+
 
 
