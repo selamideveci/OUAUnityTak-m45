@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,10 +35,4 @@ public class KarakterKontrol1 : MonoBehaviour
         }
     }
 
-    private IEnumerator WaitAndRestart(float waitTime)
-    {
-        yield return new WaitForSeconds(waitTime);
-        gameManager.gameOver();
-
-    }
 }

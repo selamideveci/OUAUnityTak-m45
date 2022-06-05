@@ -6,15 +6,21 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public GameObject OyunBitiş;
-    // Start is called before the first frame update
+    public static bool gameOver;
+   
     void Start()
     {
-        
+        gameOver = false;
     }
 
     // Update is called once per frame
-    public void gameOver()
+    public void Update()
     {
-        OyunBitiş.SetActive(true);
+        if (gameOver)
+        {
+            Time.timeScale = 0;
+            OyunBitiş.SetActive(true);
+        }
+
     }
 }
