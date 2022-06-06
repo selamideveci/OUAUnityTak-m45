@@ -30,7 +30,7 @@ Oyuncu ikinci versiyonda dört yöne gidebilir, amaç yanmadan yeni haritaları 
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
@@ -57,7 +57,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
 
-- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde İkinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde İkinci sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
@@ -78,6 +78,36 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Retrospective:**
   - Karakter çizimi hakkında iyileştirme kararı alındı.
   - Bazı kodlama kısımlarının genişletilme kararı alındı.
+  
+  
+  # Sprint 3
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 75 Puan
+
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 75 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Daily%20Scrum/Sprin3.rtf)
+- **Sprint board update**: Sprint board screenshotları:
+![Board 1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/Sprint3.1.png)
+![Board 2](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Sprint%20Board/Sprint3.2.png)
+- **Ürün Durumu:** Ekran görüntüleri:
+![ss1](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Screenshots/ss1.png)
+![ss2](https://github.com/selamideveci/OUAUnityTakim45/blob/main/Sprint%20File/Screenshots/ss2.png)
+
+- **Sprint Review:** Proje tamamlandı.
+
+- **Sprint Retrospective:**
+ - Oyuna ses dosyaları eklenebilir.
+ - Ekstra level tasarımı eklenebilir.
+ - UI/UX tasarım iyileştirilmesi yapılabilir.
+ - Karakter animasyonalrı eklenebilir.
+ <br/>
+  
 
 
 
