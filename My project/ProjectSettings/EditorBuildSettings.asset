@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: "Assets/Scenes/Giri\u015F.unity"
     guid: 533c0584d6cebbd468ba6bd605b9b556
   - enabled: 1
-    path: Assets/Scenes/enviroment_scene.unity
+    path: Assets/Scenes/Oyun.unity
     guid: 30b390ea142c14fd1941962950e2679e
   m_configObjects: {}

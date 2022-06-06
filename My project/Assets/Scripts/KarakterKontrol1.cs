@@ -9,9 +9,11 @@ public class KarakterKontrol1 : MonoBehaviour
     public float leftRightSpeed = 4;
     public GameManager gameManager;
 
-    
 
-    
+    private void Start()
+    {
+        Time.timeScale = 1;
+    }
 
     void Update()
     {

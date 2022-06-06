@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -14,9 +15,12 @@ public class Score : MonoBehaviour
     
     [SerializeField] private GameObject OyunBitiş;
 
-   
 
-   
+    private void Start()
+    {
+        totalscore = 0;
+    }
+
 
     private void Update()
     {

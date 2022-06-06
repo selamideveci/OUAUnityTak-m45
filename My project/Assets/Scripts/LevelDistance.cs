@@ -15,11 +15,12 @@ public class LevelDistance : MonoBehaviour
     private void Start()
     {
         InvokeRepeating("calculateDistance", 0.0f, 0.4f);
-        distance.text = "0";
+        Idistance = -1;
     }
 
     private void FixedUpdate()
-    {
+    {    
+        distance.text="Gidilen Mesafe: " + Idistance.ToString();
         gameOverDistance.text = "Gidilen Mesafe: " + Idistance.ToString();
     }
 

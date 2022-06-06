@@ -19,11 +19,17 @@ public class MainMenu : MonoBehaviour
         Application.Quit();
     }
 
-    public void Back()
+   public void Yeniden() 
     {
 
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex -1);
+        SceneManager.LoadScene("Oyun");
         
     }
+   public void Giriş() 
+   {
+
+       SceneManager.LoadScene("Giriş");
+        
+   }
     
 }
